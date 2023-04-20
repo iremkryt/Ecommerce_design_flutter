@@ -1,6 +1,6 @@
 # ecommerce_design
 
-A new Flutter project.
+I used Riverpod library
 
 ## Getting Started
 
